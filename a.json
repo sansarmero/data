@@ -1,0 +1,66 @@
+{
+    "hero_section": {
+      "title": "Welcome to Aarush International Education Limited",
+      "subtitle": "Your Gateway to Global Education",
+      "image_url": "https://example.com/hero_image.jpg",
+      "cta_button": {
+        "text": "Explore Our Services",
+        "link": "/services"
+      }
+    },
+    "about_us_section": {
+      "title": "About Us",
+      "description": "Aarush International Education Limited is a leading educational consultancy dedicated to helping students achieve their dreams of studying abroad.",
+      "image_url": "https://example.com/about_image.jpg",
+      "cta_button": {
+        "text": "Learn More",
+        "link": "/about"
+      }
+    },
+    "services_section": {
+      "title": "Our Services",
+      "services": [
+        {
+          "name": "Study Abroad Programs",
+          "description": "Comprehensive assistance with selecting study destinations, courses, and application processes.",
+          "icon": "https://example.com/study_abroad_icon.png"
+        },
+        {
+          "name": "Visa Assistance",
+          "description": "Expert guidance on visa requirements, application procedures, and documentation.",
+          "icon": "https://example.com/visa_assistance_icon.png"
+        },
+        {
+          "name": "Test Preparation",
+          "description": "Effective preparation courses for exams like TOEFL, IELTS, SAT, GRE, and GMAT.",
+          "icon": "https://example.com/test_preparation_icon.png"
+        },
+        {
+          "name": "Counseling Services",
+          "description": "Personalized counseling services for students and parents, helping them make informed decisions.",
+          "icon": "https://example.com/counseling_services_icon.png"
+        },
+        {
+          "name": "Career Guidance",
+          "description": "Assistance in selecting the right educational path and institution based on individual aspirations and goals.",
+          "icon": "https://example.com/career_guidance_icon.png"
+        }
+      ]
+    },
+    "testimonials_section": {
+      "title": "Testimonials",
+      "testimonials": [
+        {
+          "name": "John Smith",
+          "quote": "Thanks to Aarush International, I was able to fulfill my dream of studying abroad. Highly recommended!",
+          "image_url": "https://example.com/testimonial1.jpg"
+        },
+        {
+          "name": "Emily Johnson",
+          "quote": "The visa assistance provided by Aarush International was invaluable. They made the process seamless and stress-free.",
+          "image_url": "https://example.com/testimonial2.jpg"
+        }
+      ]
+    }
+  }
+  
