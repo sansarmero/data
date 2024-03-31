@@ -1,0 +1,106 @@
+[
+    {
+      "slug": "usa",
+      "name": "United States of America",
+      "description": "Explore the land of opportunities with top-ranked universities and diverse cultural experiences.",
+      "imageSrc": "/images/usa.jpg",
+      "programs": [
+        {
+          "name": "Computer Science",
+          "description": "Pursue a degree in Computer Science and explore the latest technologies.",
+          "universities": [
+            "Massachusetts Institute of Technology",
+            "Stanford University",
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Business Administration",
+          "description": "Gain valuable business skills and prepare for a career in management.",
+          "universities": [
+            "Harvard University",
+            "University of Pennsylvania",
+            "University of California, Berkeley"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "canada",
+      "name": "Canada",
+      "description": "Discover a world-class education system and vibrant cities in a country known for its natural beauty.",
+      "imageSrc": "/images/canada.jpg",
+      "programs": [
+        {
+          "name": "Engineering",
+          "description": "Study cutting-edge engineering disciplines and contribute to innovative projects.",
+          "universities": [
+            "University of Toronto",
+            "University of British Columbia",
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Environmental Studies",
+          "description": "Learn about sustainable practices and environmental conservation.",
+          "universities": [
+            "University of Waterloo",
+            "University of Calgary",
+            "Dalhousie University"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "australia",
+      "name": "Australia",
+      "description": "Embark on an unforgettable adventure in a country renowned for its unique wildlife and laid-back lifestyle.",
+      "imageSrc": "/images/australia.jpg",
+      "programs": [
+        {
+          "name": "Marine Biology",
+          "description": "Explore the fascinating marine ecosystems and contribute to conservation efforts.",
+          "universities": [
+            "University of Queensland",
+            "James Cook University",
+            "University of Sydney"
+          ]
+        },
+        {
+          "name": "Hospitality and Tourism Management",
+          "description": "Prepare for a career in the thriving hospitality and tourism industry.",
+          "universities": [
+            "Griffith University",
+            "University of Wollongong",
+            "Victoria University"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "description": "Experience a rich academic heritage and vibrant cultural diversity in this historic and innovative nation.",
+      "imageSrc": "/images/uk.jpg",
+      "programs": [
+        {
+          "name": "Literature and Creative Writing",
+          "description": "Explore the literary world and hone your creative writing skills.",
+          "universities": [
+            "University of Oxford",
+            "University of Cambridge",
+            "University of Edinburgh"
+          ]
+        },
+        {
+          "name": "Architecture",
+          "description": "Study the art and science of designing and constructing buildings.",
+          "universities": [
+            "University College London",
+            "University of Manchester",
+            "University of Glasgow"
+          ]
+        }
+      ]
+    }
+  ]
